@@ -1,0 +1,8 @@
+{
+  "name": "PsikologiEmpathy SMA - Tes Kepribadian & Penjurusan",
+  "description": "Platform asesmen psikologi siswa SMA/SMK berbasis MBTI, gaya belajar, rekomendasi jurusan kuliah, dan pemetaan potensi diri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
